@@ -1,1 +1,0 @@
-web:gunicorn app:Salary_Flask_API
